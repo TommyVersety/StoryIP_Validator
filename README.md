@@ -16,6 +16,8 @@ Follow our TG : https://t.me/+hkxJzfqmlcdhZGM8
 
 Show your support on Twitter : https://x.com/krakendrp
 
+Synchronize Node: https://service.josephtran.xyz/testnet/story/snapshot
+
 
 ## Install dependencies
 
