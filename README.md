@@ -12,9 +12,9 @@ Story raised $140M from Tier1 investors. Story is a blockchain making IP protect
 | **Bandwidth**| 10 MBit/s               |
 
 
-Follow our TG : https://t.me/cryptoconsol
+Follow our TG : https://t.me/+hkxJzfqmlcdhZGM8
 
-Show your support on Twitter : https://www.x.com/cryptoconsol
+Show your support on Twitter : https://x.com/krakendrp
 
 
 ## Install dependencies
