@@ -9,14 +9,14 @@ sudo systemctl stop story
 
 ```
 cd $HOME
-wget https://story-geth-binaries.s3.us-west-1.amazonaws.com/story-public/story-linux-amd64-0.10.1-57567e5.tar.gz
-tar -xzvf story-linux-amd64-0.10.1-57567e5.tar.gz
+wget https://story-geth-binaries.s3.us-west-1.amazonaws.com/story-public/story-linux-amd64-0.11.0-aac4bfe.tar.gz
+tar -xzvf story-linux-amd64-0.11.0-aac4bfe.tar.gz
 ```
 
 ### Copy binary to $HOME/go/bin
 
 ```
-cp $HOME/story-linux-amd64-0.10.1-57567e5/story $HOME/go/bin
+cp $HOME/story-linux-amd64-0.11.0-aac4bfe/story $HOME/go/bin
 source $HOME/.bash_profile
 story version
 ```
